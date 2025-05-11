@@ -30,8 +30,9 @@ From writing clean code to solving real-world problems, I strive to become a dev
 ---
 
 ## 📈 GitHub Stats:
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-badgujar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-badgujar&layout=compact&theme=radical)
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krushna-Badgujar&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna-Badgujar&layout=compact&theme=radical)
 
 ---
 
