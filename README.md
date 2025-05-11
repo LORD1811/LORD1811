@@ -28,13 +28,5 @@ From writing clean code to solving real-world problems, I strive to become a dev
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
-## 📈 GitHub Stats:
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krushna-Badgujar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna-Badgujar&layout=compact&theme=radical)
-
----
-
 ### ✨ “Code with intention. Build with purpose.”
 
