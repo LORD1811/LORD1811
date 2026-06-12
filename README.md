@@ -64,12 +64,6 @@ Hi, I'm **Krishna Anil Badgujar** 👋
 ### 🌿 AgriCrop
 AI-powered crop disease detection system using CNN and TensorFlow.
 
-### 🛒 Rural Bazaar
-Platform connecting farmers directly with customers through a digital marketplace.
-
-### 🔐 CyberSafe Vulnerability Scanner
-Security-focused project for identifying common web vulnerabilities.
-
 ### 📄 Smart Resume Analyzer
 AI-based resume screening and analysis tool.
 
