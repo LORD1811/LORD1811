@@ -3,11 +3,10 @@ Hi there! I'm **Krishna Anil Badgujar** – a passionate BCA student at IMR Coll
 I'm deeply interested in **Cybersecurity**, **Data Science**, and all things tech that spark innovation.  
 From writing clean code to solving real-world problems, I strive to become a developer who makes a difference.
 
-- 🔐 Cybersecurity & Ethical Hacking Enthusiast  
 - 📊 Exploring Data Science & AI applications  
-- 💻 Languages: Python, C++, Java, HTML, CSS, JavaScript  
+- 💻 Languages: Python, Java, HTML, CSS, JavaScript  
 - 🏆 Avishkar Winner | Project-driven learner  
-- 📍 Jalgaon, Maharashtra  
+- 📍 pune , Maharashtra  
 - 🧠 Currently sharpening my DSA & system design skills  
 - 🤝 Always open for collaboration, projects & internships!
 
